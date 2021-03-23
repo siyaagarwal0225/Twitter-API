@@ -1,4 +1,5 @@
 '''
+
 I created this project to explore Twitter API. The script records tweets containing certain pre-selected words and exports the tweets into an excel file. Attributed collected include:
 - User Name
 - Data of post
